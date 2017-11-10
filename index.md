@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "独立人生"
+
 header-img: "img/facebook.jpg"
 description: "Dylan Shen"
 ---
