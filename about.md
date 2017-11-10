@@ -12,8 +12,8 @@ header-img: "img/green.jpg"
 - **信念**：拥抱变化，专注，因果循环
 - **态度**：做正确的事情
 
-### 联系方式
 
+### 联系方式
 博客：[aliaxure.com](http://aliaxure.com)
 邮箱：shen_qilong@hotmail.com
 
