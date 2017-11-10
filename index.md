@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## 狄兰人生
+---
+layout: page
+description: "Dylan Shen"
+---
 
 You can use the [editor on GitHub](https://github.com/DylanShen2017/dylanshen2017.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,6 +1,6 @@
 # Site settings
-title: 狄兰人生 # 你的博客名字，可以定义修订
-header-img: "img/dolphin.jpg"
+title: Dylan's Life # 你的博客名字，可以定义修订
+header-img: "img/facebook.jpg"
 tagline: "cn"
 description: "Dylan's Blog"  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "Dylan Shen" # 你的名字
-      header-img: "img/dolphin.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
 comments :
