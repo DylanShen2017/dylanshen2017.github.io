@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Home"
+title: "独立人生"
 header-img: "img/facebook.jpg"
 description: "Dylan Shen"
 ---
 
-## 独立人生
 
 You can use the [editor on GitHub](https://github.com/DylanShen2017/dylanshen2017.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
