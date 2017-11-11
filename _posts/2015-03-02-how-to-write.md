@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
+title: 2015/3/2是一个忧伤的日子
 date: 2015-3-02
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [忧伤,纪念]
+description: 痛并快乐着。
 ---
 
 这里是博客正文。
