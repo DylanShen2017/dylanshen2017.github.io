@@ -1,12 +1,17 @@
 ---
 layout: page
-description: "博客页面"
+description: "Dylan Shen"
 ---
+
+    <head>
+        <meta name="msvalidate.01" content="6FEFF3F0F076EFD3B25FCD0C2ED895A0" />
+        <title>Bing</title>
+    </head>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            
+        <h2 class="post-title">
             {{ post.title }}
         </h2>
         {% if post.subtitle %}
