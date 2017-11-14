@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 
 
 ### 联系方式
-- 博客：[aliaxure.com](http://aliaxure.com)
+- 网站：[aliaxure.com](http://aliaxure.com)
 - 邮箱：<shen_qilong@hotmail.com>
 
 
