@@ -7,7 +7,8 @@ tags: 伊藤穰一
 description: 伊藤穰一及其团队阐述那些亘古不变的至臻原则，
 ---
 # 《爆裂》推荐序二摘要
-![image](media/2017111401_banner.jpg)
+![image](https://github.com/DylanShen2017/dylanshen2017.github.io.git/media/2017111401_banner.jpg)
+
 《爆裂》书中以历史上大发明家对一些重大发明的误判作为讲述的起点，介绍了伊藤穰一对未来科技和商业环境的三点认识：不对称性、复杂性和不确定性。书中提到的应对未来的9个原则代表了MIT媒体实验室的核心原则，也是MIT媒体实验室的指导原则。
 
 ## 三点认识
