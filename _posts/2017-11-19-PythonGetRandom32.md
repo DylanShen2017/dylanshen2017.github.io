@@ -1,12 +1,11 @@
 layout: post
-title: 《爆裂》推荐序二摘要
+title: Python随机生成32位字符串用于API秘钥
 date: 2017-11-19
 categories: blog
 tags: pythom
 
 description: 使用python随机生成32位字符串
-
-
+---
 # Python随机生成32位字符串用于API秘钥
 
 在配置企业微信支付API的过程中，32位字符作为API秘钥，本想使用连续的英文和数字作为API秘钥，考虑到涉及到钱，其安全性还是需要高一些。 最近刚好在学习Python，就尝试着写一下随机生成32位字符串的函数：
