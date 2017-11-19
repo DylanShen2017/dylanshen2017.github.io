@@ -1,3 +1,4 @@
+---
 layout: post
 title: Python随机生成32位字符串用于API秘钥
 date: 2017-11-19
