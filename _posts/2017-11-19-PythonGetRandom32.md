@@ -2,8 +2,7 @@ layout: post
 title: Python随机生成32位字符串用于API秘钥
 date: 2017-11-19
 categories: blog
-tags: pythom
-
+tags: python
 description: 使用python随机生成32位字符串
 ---
 # Python随机生成32位字符串用于API秘钥
